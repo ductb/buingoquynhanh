@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Vì em chỉ yêu mỗi anh thôi♥ ️♥ ️♥ ️ ',
     mess: 'Anh biết mà 🥰. Yêu em nhiều 😘😘',
     messDesc: 'Thế mai sau lấy anh nhá. ',
-    btnAccept: 'chắc chắn rồi <3',
+    btnAccept: 'chắc chắn rồi♥️ ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
